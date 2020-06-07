@@ -7,8 +7,16 @@
     "start": "node server",
     "server": "nodemon server"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciatirta/DevConnector.git"
+  },
   "author": "Lucia Tirta Gunawan",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luciatirta/DevConnector/issues"
+  },
+  "homepage": "https://github.com/luciatirta/DevConnector#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.3.1",
